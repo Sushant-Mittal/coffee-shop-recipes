@@ -4,23 +4,24 @@
 
 ## Ingredients
 
-- 1 cup sugar
-- 1 cup water
+-   1 cup sugar
+-   1 cup water
+-   1 pinch salt
 
 ## How to Make
 
 ### Step 1
 
-- Combine sugar and water in a small saucepan over medium-high heat.
+-   Combine sugar and water in a small saucepan over medium-high heat.
 
 ### Step 2
 
-- Bring the mixture to a boil. Reduce heat to medium and simmer until thickened,  about 10 minutes.
+-   Bring the mixture to a boil. Reduce heat to medium and simmer until thickened, about 10 minutes.
 
 ### Step 3
 
-- Remove from heat and let cool completely.
+-   Remove from heat and let cool completely.
 
 ### Step 4
 
-- Store syrup in an airtight container for up to two weeks.
+-   Store syrup in an airtight container for up to two weeks.
