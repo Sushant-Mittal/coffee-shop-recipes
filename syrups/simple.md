@@ -6,7 +6,11 @@
 
 -   1 cup sugar
 -   1 cup water
+<<<<<<< HEAD
 -   1 pinch salt
+=======
+-   1 cup milk
+>>>>>>> feature
 
 ## How to Make
 
